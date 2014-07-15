@@ -1,0 +1,16 @@
+{
+  "name": "minimatch-cheat-sheet",
+  "version": "0.0.0",
+  "description": "minimatch cheat sheet",
+  "author": "motemen <motemen@gmail.com>",
+  "devDependencies": {
+    "minimatch": "^0.3.0",
+    "chai": "^1.9.1",
+    "tap": "^0.4.11",
+    "lodash": "^2.4.1"
+  },
+  "scripts": {
+    "test": "node test",
+    "makedoc": "node makedoc > README.md"
+  }
+}
